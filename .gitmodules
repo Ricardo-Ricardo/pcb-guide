@@ -7,3 +7,6 @@
 [submodule "kicad-ATmega32U4"]
 	path = kicad-ATmega32U4
 	url = https://github.com/yskoht/kicad-ATmega32U4.git
+[submodule "keebs.pretty"]
+	path = keebs.pretty
+	url = https://github.com/egladman/keebs.pretty.git

@@ -1980,7 +1980,7 @@
     (uuid f5248ab6-7069-45ad-b798-c8f1a0a0e3a6)
     (property "Reference" "SW1" (id 0) (at 104.14 45.72 0))
     (property "Value" "SW_Push" (id 1) (at 104.14 48.26 0))
-    (property "Footprint" "random-keyboard-parts:SKQG-1155865" (id 2) (at 104.14 48.26 0)
+    (property "Footprint" "Button_Switch_THT:SW_PUSH_6mm" (id 2) (at 104.14 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 104.14 48.26 0)
@@ -2098,7 +2098,7 @@
       (reference "R4") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/f5248ab6-7069-45ad-b798-c8f1a0a0e3a6"
-      (reference "SW1") (unit 1) (value "SW_Push") (footprint "random-keyboard-parts:SKQG-1155865")
+      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_PUSH_6mm")
     )
     (path "/543e8d72-6b60-4cb9-b68c-88731afec46b"
       (reference "U1") (unit 1) (value "ATmega32U4-A") (footprint "Package_QFP:TQFP-44_10x10mm_P0.8mm")
